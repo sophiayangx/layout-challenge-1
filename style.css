@@ -1,9 +1,5 @@
-.topbar-item {
-display: inline;
-}
-
 .topbar {
-display: inline;
+display: inline-block;
 }
 
 .main-page-wrapper {
@@ -17,5 +13,5 @@ display: inline;
 }
 
 .main-page-item {	
-  
+  height: 40px;
 }
