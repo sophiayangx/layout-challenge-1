@@ -1,5 +1,9 @@
 .topbar-item {
-display: inline;
+display: block;
+}
+
+.topbar {
+display: block;
 }
 
 .main-page-wrapper {
