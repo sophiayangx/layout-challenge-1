@@ -1,5 +1,5 @@
 .topbar-item {
-position: relative;
+position: block;
 }
 
 .main-page-wrapper {
@@ -8,6 +8,8 @@ position: relative;
 
 .main-page-list {
   border: 3px solid black;
+  margin-left: 200px;
+  margin-right: 50px
 }
 
 .main-page-item {	
